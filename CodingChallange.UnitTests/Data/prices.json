@@ -1,0 +1,46 @@
+[
+  {
+    "drink_name": "short espresso",
+    "prices": { "small": 3.03 }
+  },
+  {
+    "drink_name": "latte",
+    "prices": {
+      "small": 3.50,
+      "medium": 4.00,
+      "large": 4.50
+    }
+  },
+  {
+    "drink_name": "flat white",
+    "prices": {
+      "small": 3.50,
+      "medium": 4.00,
+      "large": 4.50
+    }
+  },
+  {
+    "drink_name": "long black",
+    "prices": {
+      "small": 3.25,
+      "medium": 3.50
+    }
+  },
+  {
+    "drink_name": "mocha",
+    "prices": {
+      "small": 4.00,
+      "medium": 4.50,
+      "large": 5.00
+    }
+  },
+  {
+    "drink_name": "supermochacrapucaramelcream",
+    "prices": {
+      "large": 5.00,
+      "huge": 5.50,
+      "mega": 6.00,
+      "ultra": 7.00
+    }
+  }
+]  
